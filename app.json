@@ -18,13 +18,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/muah.jpeg",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sourav29meow.Golu"
     },
     "web": {
       "favicon": "./assets/muah.jpeg"
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2b123ec0-fd0f-45b6-a1c9-27c1189f0c7c"
+      }
+    }
   }
 }

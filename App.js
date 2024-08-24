@@ -272,6 +272,7 @@ const styles = StyleSheet.create({
     fontFamily: "MyCustomFont",
     fontSize: 95,
     opacity: 0.1,
+    backgroundColor:"#fff"
   },
   homeImg: {
     position: "absolute",
@@ -280,6 +281,8 @@ const styles = StyleSheet.create({
     // objectFit:"contain",
     bottom: 0,
     right: 0,
+    backgroundColor:"#fff"
+    
   },
   // modals
 });
